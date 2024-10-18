@@ -1,10 +1,8 @@
 # Animation tips
 ### Virus Protection
-Remove the vaccine virus from your .ma file   
-[Vid](https://www.youtube.com/watch?v=UeCFvKhoAKk)
+Remove the vaccine virus from your .ma file [Vid](https://www.youtube.com/watch?v=UeCFvKhoAKk)   
 
-Scan the files here   
-[Vid](https://www.virustotal.com/)
+Scan the files [here](https://www.virustotal.com/)   
 
 
 ### Bro Dynamics Settings
