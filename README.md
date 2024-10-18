@@ -1,4 +1,11 @@
 # Animation tips
+### Virus Protection
+Remove the vaccine virus from your .ma file   
+[Vid](https://www.youtube.com/watch?v=UeCFvKhoAKk)
+
+Scan the files here   
+[Vid](https://www.virustotal.com/)
+
 
 ### Bro Dynamics Settings
 For hair   
@@ -10,3 +17,5 @@ Get it here! [link](https://github.com/GenEugene/GETools)
 Nice default setting   
 _Particle offset is pointing away from your tail_   
 ![image](https://github.com/user-attachments/assets/3410b3e0-2b8b-4490-a390-3f176e1351d5)
+
+
